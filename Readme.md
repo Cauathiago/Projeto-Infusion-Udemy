@@ -8,7 +8,7 @@ Clique [neste link azul](https://cauathiago.github.io/Projeto-Infusion-Udemy/), 
 
 ## Video do site:
 
-![](img/Projetofinal-Infusion.mp4/screen.png)
+![](img/Cap-Projeto_Udemy.png)
 
 ## Desenvolvido por??
 
