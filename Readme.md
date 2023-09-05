@@ -6,7 +6,7 @@ Este um projeto final de um **Curso** da Udemy. Ele é bem simples e ao mesmo te
 
 Clique [neste link azul](https://cauathiago.github.io/Projeto-Infusion-Udemy/), para ter acesso ao site rodando ao vivo.
 
-## Video do site:
+## Screem do site:
 
 ![](img/Cap-Projeto_Udemy.png)
 
