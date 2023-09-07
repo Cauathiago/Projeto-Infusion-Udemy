@@ -4,7 +4,7 @@ Este um projeto final de um **Curso** da Udemy. Ele é bem simples e ao mesmo te
 
 ## Live site:
 
-Clique [neste link azul](https://cauathiago.github.io/Projeto-Infusion-Udemy/), para ter acesso ao site rodando ao vivo.
+Clique [neste link azul](https://cauathiago.github.io/projeto-Infusion-Udemy/), para ter acesso ao site rodando ao vivo.
 
 ## Screem do site:
 
