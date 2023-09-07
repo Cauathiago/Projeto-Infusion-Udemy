@@ -1,4 +1,4 @@
-# News-website
+# Projeto do curso da Udemy.
 
 Este um projeto final de um **Curso** da Udemy. Ele é bem simples e ao mesmo tempo completo com HTML, CSS e um pouco de JS. Segue o link abaixo de como ficou, Ao vivo!
 
